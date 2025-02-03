@@ -118,8 +118,6 @@ In your `User_yoursteamidhere.ini` file the values would look like so:
         UserProfileMeleeWeaponIndex=1
         UserProfileRebirthCount=1
 
-Note: Yes, if you are not rebirthed this allows you to wear the Golden Masks. However, the default masks check the level requirements. If you are not high enough level you will get a missing DLC Requirements Error Message at the Main Menu.
-
 ### Screenshot
 <img src="Screenshots/Danny.jpg" alt="Danny Screenshot" width="960" height="540" />
 
