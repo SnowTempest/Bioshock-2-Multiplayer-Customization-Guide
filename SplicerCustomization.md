@@ -2,18 +2,20 @@
 
 <br>
 
-# Splicer Modification
+# Splicer Modification Table
 
-## Table of Contents
-- [Splicer Ids](#splicer-ids)
-- [Mask Ids](#mask-ids)
-- [Melee Ids](#melee-ids)
-- [Unique Ids](#unique-ids)
-- [Examples](#examples)
-    - [Zigo](#example-1)
-    - [Danny](#example-2)
-    - [Barbara](#example-3)
-- [Notes](#notes)
+| 📋 **Contents**               |
+|-------------------------------|
+| 🆔 [Splicer IDs](#splicer-ids) |
+| 🎭 [Mask IDs](#mask-ids) |
+| 🗡️ [Melee IDs](#melee-ids) |
+| 🌟 [Unique IDs](#unique-ids) |
+| 📌 [Examples](#examples) |
+| ├── 👤 [Zigo](#example-1) |
+| ├── 👤 [Danny](#example-2) |
+| ├── 👤 [Barbara](#example-3) |
+| 📝 [Notes](#notes) |
+
 
 # Splicer Ids
 
